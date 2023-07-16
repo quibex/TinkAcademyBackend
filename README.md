@@ -1,0 +1,2 @@
+# TinkAcademyBackend
+Lang: Golang
